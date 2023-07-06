@@ -67,6 +67,6 @@ module "storage_account" {
   ]
 
   extra_tags = {
-    foo = "bar"
+    foo = "bar98"
   }
 }
